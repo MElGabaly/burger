@@ -1,0 +1,24 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d6/Escutcheon_in_the_Seal_of_the_Kingdom_of_Croatia_1527.svg");
+  background-repeat: repeat;
+}
