@@ -11,9 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/MElGabaly/burger.git"
   },
-  "engines": {
-    "node": "8.11.4"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
